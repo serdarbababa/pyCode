@@ -21,37 +21,37 @@ git push -u origin master
 
 
 ### Benim yaptiklarim
-#make a readme file
-echo "# Rcode" >> README.md
-#initialize
-git init
-#configure git for user name
-git config --global user.name "Serdar B"
+#make a readme file<p>
+echo "# Rcode" >> README.md<p>
+#initialize<p>
+git init<p>
+#configure git for user name<p>
+git config --global user.name "Serdar B"<p>
 
-#adding files 
-git add *.ipynb
+#adding files <p>
+git add *.ipynb<p>
 
-#cheking status
-git status
+#cheking status<p>
+git status<p>
 
-#removing files
-git rm .ipynb
-git rm -f .ipynb_checkpoints/*
+#removing files<p>
+git rm .ipynb<p>
+git rm -f .ipynb_checkpoints/*<p>
+<p>
+#comminting data<p>
+git commit<p> 
+git commit -a<p>
+<p>
+#pushing data<p>
+git push -u origin master<p>
 
-#comminting data
-git commit 
-git commit -a
+#set active branch on server and push <p>
+git push --set-upstream origin develop<p>
 
-#pushing data
-git push -u origin master
+#show branches<p>
+git branch<p>
 
-#set active branch on server and push 
-git push --set-upstream origin develop
-
-#show branches
-git branch
-
-#git swithc branches
-git checkout develop
+#git swithc branches<p>
+git checkout develop<p>
 
 
