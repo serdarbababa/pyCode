@@ -1,23 +1,23 @@
 # SERDAR GIT
 ## How to use git:
-Quick setup — if you’ve done this kind of thing before
+Quick setup — if you’ve done this kind of thing before<p>
 
-https://github.com/serdarbababa/Rcode.git
+https://github.com/serdarbababa/Rcode.git<p>
+<p>
 
-
-### Create a new repository on the command line
-
-echo "# Rcode" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/serdarbababa/pyCcode.git
-git push -u origin master
-
+### Create a new repository on the command line<p>
+<p>
+echo "# Rcode" >> README.md<p>
+git init<p>
+git add README.md<p>
+git commit -m "first commit"<p>
+git remote add origin https://github.com/serdarbababa/pyCcode.git<p>
+git push -u origin master<p>
+<p>
 ### push an existing repository from the command line
-
-git remote add origin https://github.com/serdarbababa/pyCcode.git
-git push -u origin master
+<p>
+git remote add origin https://github.com/serdarbababa/pyCcode.git<p>
+git push -u origin master<p>
 
 
 ### Benim yaptiklarim
