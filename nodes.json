@@ -1,11 +1,11 @@
 {
   "nodes" : [ 
-    {"id": 1, "label": "Node 1", "title": "I have a popup!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
-    {"id": 2, "label": "Node 2", "title": "I have a popup!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
-    {"id": 3, "label": "Node 3", "title": "I have a popup!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
-    {"id": 4, "label": "Node 4", "title": "I have a popup!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
-    {"id": 5, "label": "Node 5", "title": "I have a popup!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
-    {"id": 6, "label": "Node 6", "title": "I have a popup!", "blabla":"http://stackoverflow.com", "color": "#e04141"}
+    {"id": 1, "label": "Node 1", "title": "Andrei!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
+    {"id": 2, "label": "Node 2", "title": "Mihai!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
+    {"id": 3, "label": "Node 3", "title": "Victor!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
+    {"id": 4, "label": "Node 4", "title": "Serdar!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
+    {"id": 5, "label": "Node 5", "title": "Matei!", "blabla":"http://stackoverflow.com", "color": "#e04141"},
+    {"id": 6, "label": "Node 6", "title": "Marian!", "blabla":"http://stackoverflow.com", "color": "#e04141"}
    
   ],
   "edges" :[ 
